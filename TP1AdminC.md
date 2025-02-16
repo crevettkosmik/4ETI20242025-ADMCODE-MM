@@ -95,6 +95,4 @@ Sources interessantes:
 # Exercices
 
 **Ex.3**
-Utilisation de black.
-Mon fichier a ete corrige pour remplacer les tabs par 4 espaces (d'apres Pep8), 
-et egalement placer un espace a chaque second element d'un tuple (a, b).
+Utilisation de Black. Mon fichier a été corrigé pour remplacer les tabs par 4 espaces (d'après PEP8), et également placer un espace à chaque second élément d'un tuple (a, b).
